@@ -352,8 +352,6 @@ THE SOFTWARE.
 
 @angular/material/icon
 
-@angular/material/grid-list
-
 @angular/animations
 MIT
 
